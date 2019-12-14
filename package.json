@@ -1,0 +1,23 @@
+{
+  "name": "docker-web-app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8r34d/docker-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8r34d/docker-web-app/issues"
+  },
+  "homepage": "https://github.com/8r34d/docker-web-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
